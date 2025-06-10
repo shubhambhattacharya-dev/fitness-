@@ -623,4 +623,20 @@ NEXT_PUBLIC_CLERK_SIGN_UP_URL=/register
 
 
 ---
+#today we setup out voice againt (vapi)-
 
+-free 
+use this to install- npm install @vapi-ai/web
+
+- this is going to get the SDK (🔧 SDK ka full form hota hai: Software Development Kit
+Ye basically tools ka ek set hota hai jo developers ko kisi specific platform, software, ya hardware ke liye apps banane mein help karta hai.)-
+     -🧩 SDK ke andar kya hota hai?
+Libraries (ready-made code jo use kar sakte ho)
+
+APIs (jinke through system se baat hoti hai)
+
+Documentation (kaise use karna hai, woh likha hota hai)
+
+Debugger (errors dhoondhne ke tools)
+
+Emulators/Simulators (mobile app test karne ke liye virtual phone)
